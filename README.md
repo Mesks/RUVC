@@ -29,7 +29,7 @@ bash _DependenciesInit.sh
 
 We provide the UVC46k dataset.
 
-Full Dataset: https://pan.baidu.com/s/1yEKXJL1fMpc53Wk3Pxiftg (Extraction code: 4600)
+Full Dataset: [BaiduNet](https://pan.baidu.com/s/1MId6Ot1DDJeeJ4bxi633-w ) (Extraction code: js5w)
 
 Demo Dataset (only the testset and valset): https://www.kaggle.com/datasets/shichengque/uvc46k-demo
 
@@ -74,6 +74,12 @@ bash test_RUVC.sh
 
 # Lite RUVC:
 bash test_LiteRUVC.sh
+
+# Full RUVC and codec use f-VVC
+bash testVVC_RUVC.sh
+
+# Lite RUVC and codec use f-VVC
+bash testVVC_LiteRUVC.sh
 ```
 
 ## Training
