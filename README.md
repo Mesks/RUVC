@@ -4,8 +4,6 @@ Official repository for the paper:
 
 **Underwater Video Compression Based on Spatial-Frequency Dual-Domain Scaling**
 
-This paper has been submitted to **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**.
-
 ## Overview
 
 This repository provides the official implementation of **RUVC**, a spatial-frequency dual-domain scaling based framework for underwater video compression.
