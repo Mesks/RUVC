@@ -1,0 +1,39 @@
+# Datasets and generated experiment outputs
+/dataset/
+/log/
+/intermediate/
+/output/
+
+# Local Python environments and caches
+/.venv/
+/venv/
+/env/
+__pycache__/
+*.py[cod]
+*$py.class
+/.pytest_cache/
+/.mypy_cache/
+/.ruff_cache/
+/.coverage
+/htmlcov/
+
+# Locally built FFmpeg and machine-specific environment pointer
+/dependencies/ffmpeg/
+/dependencies/.ruvc_ffmpeg_env_path
+
+# Local development metadata
+/.agents/
+/.codex/
+/.idea/
+/.vscode/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Project-specific files not intended for publication
+/auxiliary_modules/draw_paper_imgs.py
+/-home-mesks-__WorkBench-RUVCproject-.txt
